@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\bin\Debug\netcoreapp2.0\BalancedParentheses.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\bin\Debug\netcoreapp2.0\BalancedParentheses.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\bin\Debug\netcoreapp2.0\BalancedParentheses.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\bin\Debug\netcoreapp2.0\BalancedParentheses.dll
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\bin\Debug\netcoreapp2.0\BalancedParentheses.pdb
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\obj\Debug\netcoreapp2.0\BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\obj\Debug\netcoreapp2.0\BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\obj\Debug\netcoreapp2.0\BalancedParentheses.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\obj\Debug\netcoreapp2.0\BalancedParentheses.dll
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\obj\Debug\netcoreapp2.0\BalancedParentheses.pdb
+C:\Users\Gzero\Desktop\C# Advanced\BalancedParentheses\obj\Debug\netcoreapp2.0\BalancedParentheses.csprojResolveAssemblyReference.cache

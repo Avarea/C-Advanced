@@ -1,0 +1,22 @@
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.deps.json
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.runtimeconfig.json
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.runtimeconfig.dev.json
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.dll
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.pdb
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.AssemblyInfoInputs.cache
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.AssemblyInfo.cs
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.dll
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.pdb
+C:\Users\valch_000\source\repos\Solution1\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.dll
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\bin\Debug\netcoreapp2.0\DecimalToBinaryConverter.pdb
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.dll
+C:\Users\Gzero\Desktop\C# Advanced\DecimalToBinaryConverter\obj\Debug\netcoreapp2.0\DecimalToBinaryConverter.pdb

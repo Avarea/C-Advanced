@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\bin\Debug\netcoreapp2.0\SimpleTextEditor.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\bin\Debug\netcoreapp2.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\bin\Debug\netcoreapp2.0\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\bin\Debug\netcoreapp2.0\SimpleTextEditor.dll
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\bin\Debug\netcoreapp2.0\SimpleTextEditor.pdb
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\obj\Debug\netcoreapp2.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\obj\Debug\netcoreapp2.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\obj\Debug\netcoreapp2.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\obj\Debug\netcoreapp2.0\SimpleTextEditor.dll
+C:\Users\Gzero\Desktop\C# Advanced\SimpleTextEditor\obj\Debug\netcoreapp2.0\SimpleTextEditor.pdb

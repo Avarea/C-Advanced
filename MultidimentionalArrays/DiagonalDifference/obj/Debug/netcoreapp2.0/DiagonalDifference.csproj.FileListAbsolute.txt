@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\bin\Debug\netcoreapp2.0\DiagonalDifference.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\DiagonalDifference\obj\Debug\netcoreapp2.0\DiagonalDifference.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\bin\Debug\netcoreapp2.0\TruckTour.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\bin\Debug\netcoreapp2.0\TruckTour.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\bin\Debug\netcoreapp2.0\TruckTour.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\bin\Debug\netcoreapp2.0\TruckTour.dll
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\bin\Debug\netcoreapp2.0\TruckTour.pdb
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\obj\Debug\netcoreapp2.0\TruckTour.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\obj\Debug\netcoreapp2.0\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\obj\Debug\netcoreapp2.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\obj\Debug\netcoreapp2.0\TruckTour.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\obj\Debug\netcoreapp2.0\TruckTour.dll
+C:\Users\Gzero\Desktop\C# Advanced\TruckTour\obj\Debug\netcoreapp2.0\TruckTour.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\bin\Debug\netcoreapp2.0\RubiksMatrix.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\RubiksMatrix\obj\Debug\netcoreapp2.0\RubiksMatrix.pdb

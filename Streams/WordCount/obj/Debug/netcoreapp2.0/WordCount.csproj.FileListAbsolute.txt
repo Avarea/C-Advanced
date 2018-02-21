@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\bin\Debug\netcoreapp2.0\WordCount.pdb
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\WordCount\obj\Debug\netcoreapp2.0\WordCount.pdb

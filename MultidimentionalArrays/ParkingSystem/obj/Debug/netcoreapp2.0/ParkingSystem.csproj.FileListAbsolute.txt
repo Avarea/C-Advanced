@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\bin\Debug\netcoreapp2.0\ParkingSystem.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\ParkingSystem\obj\Debug\netcoreapp2.0\ParkingSystem.pdb

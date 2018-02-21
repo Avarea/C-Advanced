@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\bin\Debug\netcoreapp2.0\ZippingSlicedFiles.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\bin\Debug\netcoreapp2.0\ZippingSlicedFiles.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\bin\Debug\netcoreapp2.0\ZippingSlicedFiles.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\bin\Debug\netcoreapp2.0\ZippingSlicedFiles.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\bin\Debug\netcoreapp2.0\ZippingSlicedFiles.pdb
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\obj\Debug\netcoreapp2.0\ZippingSlicedFiles.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\obj\Debug\netcoreapp2.0\ZippingSlicedFiles.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\obj\Debug\netcoreapp2.0\ZippingSlicedFiles.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\obj\Debug\netcoreapp2.0\ZippingSlicedFiles.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\ZippingSlicedFiles\obj\Debug\netcoreapp2.0\ZippingSlicedFiles.pdb

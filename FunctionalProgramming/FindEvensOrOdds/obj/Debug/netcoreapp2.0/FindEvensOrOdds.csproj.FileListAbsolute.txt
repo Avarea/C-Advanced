@@ -1,0 +1,11 @@
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp2.0\FindEvensOrOdds.deps.json
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp2.0\FindEvensOrOdds.runtimeconfig.json
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp2.0\FindEvensOrOdds.runtimeconfig.dev.json
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp2.0\FindEvensOrOdds.dll
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\bin\Debug\netcoreapp2.0\FindEvensOrOdds.pdb
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp2.0\FindEvensOrOdds.csprojResolveAssemblyReference.cache
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp2.0\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp2.0\FindEvensOrOdds.AssemblyInfoInputs.cache
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp2.0\FindEvensOrOdds.AssemblyInfo.cs
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp2.0\FindEvensOrOdds.dll
+E:\C# Advanced\FunctionalProgramming\FindEvensOrOdds\obj\Debug\netcoreapp2.0\FindEvensOrOdds.pdb

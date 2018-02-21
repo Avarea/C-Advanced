@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\bin\Debug\netcoreapp2.0\DirectoryTraversal.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\bin\Debug\netcoreapp2.0\DirectoryTraversal.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\bin\Debug\netcoreapp2.0\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\bin\Debug\netcoreapp2.0\DirectoryTraversal.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\bin\Debug\netcoreapp2.0\DirectoryTraversal.pdb
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\obj\Debug\netcoreapp2.0\DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\obj\Debug\netcoreapp2.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\obj\Debug\netcoreapp2.0\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\obj\Debug\netcoreapp2.0\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\obj\Debug\netcoreapp2.0\DirectoryTraversal.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\DirectoryTraversal\obj\Debug\netcoreapp2.0\DirectoryTraversal.pdb

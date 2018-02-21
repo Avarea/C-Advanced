@@ -1,0 +1,10 @@
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\bin\Debug\netcoreapp2.0\MaximumElement.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\bin\Debug\netcoreapp2.0\MaximumElement.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\bin\Debug\netcoreapp2.0\MaximumElement.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\bin\Debug\netcoreapp2.0\MaximumElement.dll
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\bin\Debug\netcoreapp2.0\MaximumElement.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\obj\Debug\netcoreapp2.0\MaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\obj\Debug\netcoreapp2.0\MaximumElement.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\obj\Debug\netcoreapp2.0\MaximumElement.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\obj\Debug\netcoreapp2.0\MaximumElement.dll
+C:\Users\Gzero\Desktop\C# Advanced\MaximumElement\obj\Debug\netcoreapp2.0\MaximumElement.pdb

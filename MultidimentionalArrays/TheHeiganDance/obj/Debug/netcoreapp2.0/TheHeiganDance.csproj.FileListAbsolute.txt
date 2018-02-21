@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\bin\Debug\netcoreapp2.0\TheHeiganDance.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\bin\Debug\netcoreapp2.0\TheHeiganDance.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\bin\Debug\netcoreapp2.0\TheHeiganDance.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\bin\Debug\netcoreapp2.0\TheHeiganDance.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\bin\Debug\netcoreapp2.0\TheHeiganDance.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\obj\Debug\netcoreapp2.0\TheHeiganDance.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\obj\Debug\netcoreapp2.0\TheHeiganDance.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\obj\Debug\netcoreapp2.0\TheHeiganDance.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\obj\Debug\netcoreapp2.0\TheHeiganDance.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\obj\Debug\netcoreapp2.0\TheHeiganDance.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TheHeiganDance\obj\Debug\netcoreapp2.0\TheHeiganDance.csprojResolveAssemblyReference.cache

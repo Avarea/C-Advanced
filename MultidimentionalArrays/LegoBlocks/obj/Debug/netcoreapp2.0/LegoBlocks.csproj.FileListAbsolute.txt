@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\bin\Debug\netcoreapp2.0\LegoBlocks.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\LegoBlocks\obj\Debug\netcoreapp2.0\LegoBlocks.pdb

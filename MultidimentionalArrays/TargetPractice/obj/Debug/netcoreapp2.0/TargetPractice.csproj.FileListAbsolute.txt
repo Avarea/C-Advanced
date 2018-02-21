@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.pdb

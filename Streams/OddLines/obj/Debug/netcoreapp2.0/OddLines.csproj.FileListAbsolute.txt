@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\bin\Debug\netcoreapp2.0\OddLines.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\bin\Debug\netcoreapp2.0\OddLines.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\bin\Debug\netcoreapp2.0\OddLines.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\bin\Debug\netcoreapp2.0\OddLines.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\bin\Debug\netcoreapp2.0\OddLines.pdb
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\obj\Debug\netcoreapp2.0\OddLines.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\obj\Debug\netcoreapp2.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\obj\Debug\netcoreapp2.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\obj\Debug\netcoreapp2.0\OddLines.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\obj\Debug\netcoreapp2.0\OddLines.dll
+C:\Users\Gzero\Desktop\C# Advanced\Streams\OddLines\obj\Debug\netcoreapp2.0\OddLines.pdb

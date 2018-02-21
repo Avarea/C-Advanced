@@ -1,0 +1,11 @@
+E:\C# Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.deps.json
+E:\C# Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.runtimeconfig.json
+E:\C# Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.runtimeconfig.dev.json
+E:\C# Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.dll
+E:\C# Advanced\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp2.0\CustomComparator.pdb
+E:\C# Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.csproj.CoreCompileInputs.cache
+E:\C# Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.AssemblyInfoInputs.cache
+E:\C# Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.AssemblyInfo.cs
+E:\C# Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.dll
+E:\C# Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.pdb
+E:\C# Advanced\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp2.0\CustomComparator.csprojResolveAssemblyReference.cache

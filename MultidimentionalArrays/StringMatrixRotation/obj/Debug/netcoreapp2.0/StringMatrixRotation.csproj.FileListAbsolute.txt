@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\bin\Debug\netcoreapp2.0\StringMatrixRotation.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\bin\Debug\netcoreapp2.0\StringMatrixRotation.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\bin\Debug\netcoreapp2.0\StringMatrixRotation.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\bin\Debug\netcoreapp2.0\StringMatrixRotation.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\bin\Debug\netcoreapp2.0\StringMatrixRotation.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\obj\Debug\netcoreapp2.0\StringMatrixRotation.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\obj\Debug\netcoreapp2.0\StringMatrixRotation.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\obj\Debug\netcoreapp2.0\StringMatrixRotation.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\obj\Debug\netcoreapp2.0\StringMatrixRotation.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\obj\Debug\netcoreapp2.0\StringMatrixRotation.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\StringMatrixRotation\obj\Debug\netcoreapp2.0\StringMatrixRotation.pdb

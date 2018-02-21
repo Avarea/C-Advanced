@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\CalculateSequenceWithQueue.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\CalculateSequenceWithQueue.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\CalculateSequenceWithQueue.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\CalculateSequenceWithQueue.dll
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\bin\Debug\netcoreapp2.0\CalculateSequenceWithQueue.pdb
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\CalculateSequenceWithQueue.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\CalculateSequenceWithQueue.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\CalculateSequenceWithQueue.dll
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\CalculateSequenceWithQueue.pdb
+C:\Users\Gzero\Desktop\C# Advanced\CalculateSequenceWithQueue\obj\Debug\netcoreapp2.0\CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache

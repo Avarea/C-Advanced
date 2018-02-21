@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\bin\Debug\netcoreapp2.0\Crossfire.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\bin\Debug\netcoreapp2.0\Crossfire.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\bin\Debug\netcoreapp2.0\Crossfire.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\bin\Debug\netcoreapp2.0\Crossfire.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\bin\Debug\netcoreapp2.0\Crossfire.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\obj\Debug\netcoreapp2.0\Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\obj\Debug\netcoreapp2.0\Crossfire.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\obj\Debug\netcoreapp2.0\Crossfire.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\obj\Debug\netcoreapp2.0\Crossfire.dll
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\obj\Debug\netcoreapp2.0\Crossfire.pdb
+C:\Users\Gzero\Desktop\C# Advanced\MultidimentionalArrays\Crossfire\obj\Debug\netcoreapp2.0\Crossfire.csprojResolveAssemblyReference.cache

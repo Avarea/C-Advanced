@@ -1,0 +1,11 @@
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\bin\Debug\netcoreapp2.0\PrecicateParty.deps.json
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\bin\Debug\netcoreapp2.0\PrecicateParty.runtimeconfig.json
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\bin\Debug\netcoreapp2.0\PrecicateParty.runtimeconfig.dev.json
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\bin\Debug\netcoreapp2.0\PrecicateParty.dll
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\bin\Debug\netcoreapp2.0\PrecicateParty.pdb
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\obj\Debug\netcoreapp2.0\PrecicateParty.csproj.CoreCompileInputs.cache
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\obj\Debug\netcoreapp2.0\PrecicateParty.AssemblyInfoInputs.cache
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\obj\Debug\netcoreapp2.0\PrecicateParty.AssemblyInfo.cs
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\obj\Debug\netcoreapp2.0\PrecicateParty.dll
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\obj\Debug\netcoreapp2.0\PrecicateParty.pdb
+E:\C# Advanced\FunctionalProgramming\PrecicateParty\obj\Debug\netcoreapp2.0\PrecicateParty.csprojResolveAssemblyReference.cache

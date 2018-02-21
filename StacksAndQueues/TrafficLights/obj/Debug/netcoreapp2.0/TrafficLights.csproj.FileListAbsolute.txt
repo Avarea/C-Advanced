@@ -1,0 +1,22 @@
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.deps.json
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.json
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.dev.json
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.pdb
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfo.cs
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.pdb
+C:\Users\valch_000\source\repos\Solution1\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\bin\Debug\netcoreapp2.0\TrafficLights.pdb
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.dll
+C:\Users\Gzero\Desktop\C# Advanced\TrafficLights\obj\Debug\netcoreapp2.0\TrafficLights.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\bin\Debug\netcoreapp2.0\BasicQueueOperations.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\bin\Debug\netcoreapp2.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\bin\Debug\netcoreapp2.0\BasicQueueOperations.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\bin\Debug\netcoreapp2.0\BasicQueueOperations.dll
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\bin\Debug\netcoreapp2.0\BasicQueueOperations.pdb
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\obj\Debug\netcoreapp2.0\BasicQueueOperations.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\obj\Debug\netcoreapp2.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\obj\Debug\netcoreapp2.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\obj\Debug\netcoreapp2.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\obj\Debug\netcoreapp2.0\BasicQueueOperations.dll
+C:\Users\Gzero\Desktop\C# Advanced\BasicQueueOperations\obj\Debug\netcoreapp2.0\BasicQueueOperations.pdb

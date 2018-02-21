@@ -1,0 +1,22 @@
+C:\Users\valch_000\source\repos\Solution1\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.deps.json
+C:\Users\valch_000\source\repos\Solution1\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.runtimeconfig.json
+C:\Users\valch_000\source\repos\Solution1\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.runtimeconfig.dev.json
+C:\Users\valch_000\source\repos\Solution1\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.dll
+C:\Users\valch_000\source\repos\Solution1\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.pdb
+C:\Users\valch_000\source\repos\Solution1\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\valch_000\source\repos\Solution1\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.AssemblyInfoInputs.cache
+C:\Users\valch_000\source\repos\Solution1\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.AssemblyInfo.cs
+C:\Users\valch_000\source\repos\Solution1\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.dll
+C:\Users\valch_000\source\repos\Solution1\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.pdb
+C:\Users\valch_000\source\repos\Solution1\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.deps.json
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.runtimeconfig.json
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.runtimeconfig.dev.json
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.dll
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\bin\Debug\netcoreapp2.0\HotPotato.pdb
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.csprojResolveAssemblyReference.cache
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.AssemblyInfoInputs.cache
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.AssemblyInfo.cs
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.dll
+C:\Users\Gzero\Desktop\C# Advanced\HotPotato\obj\Debug\netcoreapp2.0\HotPotato.pdb
